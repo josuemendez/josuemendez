@@ -2,6 +2,7 @@
 I’m Josué Méndez, a full stack web developer and founder of Interjmex, a digital agency based in Mérida, Yucatán. I specialize in creating end-to-end tech solutions, from corporate websites and e-commerce platforms to custom systems and cloud-based applications.<br><br>I have extensive experience with technologies such as HTML, CSS, JavaScript, PHP, WordPress, Laravel, and MySQL-based database systems. I also bring strong skills in UI/UX design, branding, SEO optimization, and digital marketing strategies.<br><br>My approach blends strategic thinking with technical execution, allowing me to lead projects from concept to deployment while delivering scalable, user-focused solutions. At Interjmex, our mission is to help small and medium-sized businesses grow through innovation, reliability, and personalized support.
 <br><br>
 🔗 Website: https://interjmex.com
+<br><br>
 📄 Resume: https://www.interjmex.com/josuemendez/
 
 
